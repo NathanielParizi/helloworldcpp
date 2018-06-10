@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+// C++ is cool
+
+main()
+{
+    printf("Hello World");
+
+}
